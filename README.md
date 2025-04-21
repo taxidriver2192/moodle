@@ -2,8 +2,7 @@
 
 **Afsender:** Lukas Jürs Schmidt  
 **Modtager:** Peter Schwalbe  
-**Dato:** [indsæt dato]
-
+**Dato:** 3. oktober 2019
 ---
 
 ## Baggrund
